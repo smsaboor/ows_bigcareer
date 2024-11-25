@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>485126769574-k40fvt9ujsin9tvvk02rvtl8oa2gc939.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.485126769574-k40fvt9ujsin9tvvk02rvtl8oa2gc939</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>485126769574-rjk9ce36qb4dluek5jga0p09hnlilgu6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA0klUmFCGtMuimCWpS-FA584GCdPPpLG0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>485126769574</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.owsBigcareer</string>
+	<key>PROJECT_ID</key>
+	<string>bigcareer-435be</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bigcareer-435be.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:485126769574:ios:4cb47d6b3152687c3add67</string>
+	<key>DATABASE_URL</key>
+	<string>https://bigcareer-435be-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
